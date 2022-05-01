@@ -1,5 +1,3 @@
-# Noobs
-:)
 function getCurrentPlayerPOS()
     local plyr = game.Players.LocalPlayer;
     if plyr.Character then
